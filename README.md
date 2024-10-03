@@ -8,8 +8,8 @@
 
 - 💻 **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e inovação.
 - 🎓 Formado em **Ciências Contábeis** e cursando **Sistemas para Internet- Senac São Paulo**.
+- 🏠 **Paranaense**, moro em **São Paulo** desde 2017, curtindo essa cidade maravilhosa e todas as oportunidades que ela oferece.
 - 🌱 Atualmente aprimorando minhas habilidades em **React**, **Node.js** e **DevOps**.
-- 🌐 Falo **Português** 
 - 🎯 Buscando sempre transformar ideias em soluções digitais eficientes.
 
 ## 🔧 Tecnologias e Ferramentas

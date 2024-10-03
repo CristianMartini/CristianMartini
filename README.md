@@ -7,7 +7,7 @@
 ## Sobre mim
 
 - 💻 **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e inovação.
-- 🎓 Formado em **Ciências Contábeis** e cursando **Sistmas para Internet- Senac São Paulo**.
+- 🎓 Formado em **Ciências Contábeis** e cursando **Sistemas para Internet- Senac São Paulo**.
 - 🌱 Atualmente aprimorando minhas habilidades em **React**, **Node.js** e **DevOps**.
 - 🌐 Falo **Português** 
 - 🎯 Buscando sempre transformar ideias em soluções digitais eficientes.

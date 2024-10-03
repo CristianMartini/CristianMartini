@@ -7,9 +7,9 @@
 ## Sobre mim
 
 - 💻 **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e inovação.
-- 🎓 Formado em **Ciências Contábeis** e cursando **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Formado em **Ciências Contábeis** e cursando **Sistmas para Internet- Senac São Paulo**.
 - 🌱 Atualmente aprimorando minhas habilidades em **React**, **Node.js** e **DevOps**.
-- 🌐 Falo **Português** e **Inglês**.
+- 🌐 Falo **Português** 
 - 🎯 Buscando sempre transformar ideias em soluções digitais eficientes.
 
 ## 🔧 Tecnologias e Ferramentas
@@ -18,14 +18,14 @@
 
 ## 🚀 Projetos em Destaque
 
-- [**E-commerce em Laravel**](https://github.com/CristianMartini/ecommerce-laravel)  
-  Desenvolvimento de uma plataforma de comércio eletrônico completa utilizando Laravel e Angular.
+- [**E-commerce em Laravel**](https://github.com/CristianMartini/Projeto-Bravo-PI)  
+  Desenvolvimento de uma plataforma de comércio eletrônico completa utilizando Laravel.
 
-- [**Aplicativo de E-commerce para Android**](https://github.com/CristianMartini/ecommerce-android)  
+- [**Aplicativo de E-commerce para Android**](https://github.com/CristianMartini/Echo-Viagens-)  
   Criação de um aplicativo móvel para e-commerce, permitindo aos usuários realizar compras pelo Android.
 
-- [**Plataforma Web com React e Next.js**](https://github.com/CristianMartini/plataforma-react)  
-  Desenvolvimento de uma plataforma web moderna com React, Next.js e hospedagem na Azure.
+- [**Plataforma Web com React e Next.js**](https://github.com/CristianMartini/minha-landing-page)  
+  Desenvolvimento de um site pessoal moderno com React, e hospedagem na Azure.
 
 ## 📈 Estatísticas do GitHub
 

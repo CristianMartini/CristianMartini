@@ -14,7 +14,7 @@
 
 ## 🔧 Tecnologias e Ferramentas
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,kotlin,js,ts,html,css,tailwind,git,github,vscode,androidstudio&theme=light)
+![Minhas Habilidades](https://skillicons.dev/icons?i=react,angular,nodejs,laravel,kotlin,js,html,css,tailwind,git,github,vscode,androidstudio&theme=light)
 
 ## 🚀 Projetos em Destaque
 
